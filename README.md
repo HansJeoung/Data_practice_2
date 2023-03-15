@@ -10,7 +10,9 @@ Multi Classification
 
 # EDA Explanation
 -Small group data.
+
 -The target data is unbalanced.
+
 -There is data where only label data is different and everything is duplicated. 
 In other words, it is estimated that many people only change their credit ratings.
 
