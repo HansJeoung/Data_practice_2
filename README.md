@@ -9,7 +9,7 @@ Predict the degree of credit card delinquency for users.
 Multi Classification
 
 # EDA Explanation
--Small group data.
+-Small group data.(20,000)
 
 -The target data is unbalanced.
 
